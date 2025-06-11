@@ -1,21 +1,69 @@
-<h1 align="center">Hi there, I'm Abhishek Kulbainur 👋</h1>
+<h1 align="center">Hi 👋, I'm Abhishek Kulbainur</h1>
+<h3 align="center">BTech IT '28 |  Java | Python | ML | Blogger</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Software+Tester+%7C+Tech+Enthusiast;Java+%7C+Python+%7C+SQL+Learner;AI-ML-DS+Explorer+%F0%9F%9A%80;Loves+Coding+and+Coffee+%E2%98%95" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=500&lines=Tech+Enthusiast+%F0%9F%94%A5;AI+-+ML+-+DS+Explorer+%F0%9F%9A%80;Full+Stack+Web+Learner+%F0%9F%92%BB;Spiritual+Blogger+%E2%9C%A9;Love+to+Build+and+Break+%F0%9F%A4%AA" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🔭 I’m currently:
-- 🎓 Pursuing **BTech in Information Technology** from FCRIT (Batch '28)
-- 🧪 Interning in **Software Testing**
-- 🌱 Learning: `AI`, `ML`, `Data Science`, and `Web Development`
-- 💬 Ask me about: `Java`, `Python`, `SQL`, `HTML`, and `Web Projects`
+### 🚀 About Me
+- 🎓 BTech IT student at **FCRIT**, Batch of 2028
+- 🧪 Interned in **Software Testing** at **Prodigy InfoTech**.
+- 🌱 Learning `AI`, `ML`, `System Design`, and `Web Dev`
+- 📖 Writing **spiritual blogs** & learning from the Bible
+- 💻 Passionate about **tech + purpose**
 
 ---
 
-### 🌱 Skills & Tools:
-```java
-Languages:   Java · Python · C · C++ · SQL · HTML · CSS · JavaScript
-Tools:       VS Code · MySQL · Git · GitHub · Postman · JIRA · Selenium
-Learning:    Django · React.js · AI/ML · System Design
+### 🛠️ Tech Stack
+
+**Languages & Scripting:**  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00427e?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-1d527c?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Frontend & Backend:**  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+**Tools & Tech:**  
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishekkulbainur&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkulbainur&layout=compact&theme=tokyonight" height="150"/>
+</p>
+
+---
+
+### 📬 Connect With Me
+
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/abhishekkulbainur)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/abhishekkulbainur)
+
+📧 **Email**: `abhishekkulbainur@gmail.com`  
+📖 Fun fact: I love tech and theology together 🙌
+
+---
+
+### 💬 Quote to Live By
+
+> _"Stay curious. Code with purpose. Trust in God's plan."_
+
+<p align="center">
+  <img src="https://media.giphy.com/media/Y4bzv6DYbL3FK/giphy.gif" width="300"/>
+</p>
