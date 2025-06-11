@@ -8,8 +8,7 @@
 ---
 
 ### 🚀 About Me
-- 🎓 BTech IT student at **FCRIT**, Batch of 2028  
-- 🧪 Interned in **Software Testing** at **Prodigy InfoTech**  
+- 🎓 BTech IT student at **FCRIT**, Batch of 2028 
 - 🌱 Learning `AI`, `ML`, `System Design`, and `Web Dev`  
 - 📖 Writing **spiritual blogs** & learning from the Bible  
 - 💻 Passionate about **tech + purpose**
