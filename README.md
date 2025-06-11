@@ -63,7 +63,3 @@
 ### 💬 Quote to Live By
 
 > _"Stay curious. Code with purpose. Trust in God's plan."_
-
-<p align="center">
-  <img src="https://media.giphy.com/media/Y4bzv6DYbL3FK/giphy.gif" width="300"/>
-</p>
