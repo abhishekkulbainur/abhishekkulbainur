@@ -55,8 +55,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-kulbainur-473022319)
 [![Blog](https://img.shields.io/badge/-Blogspot-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://abhishekkulbainur.blogspot.com/)
 
-📧 **Email**: `abhishekkulbainur@gmail.com`  
-📖 **Fun fact**: I love tech and theology together 🙌
+📧 **Email**: `abhishekkulbainur@gmail.com` 
 
 ---
 
