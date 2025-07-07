@@ -37,14 +37,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishekkulbainur&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkulbainur&layout=compact&theme=tokyonight" height="150"/>
-</p>
-
----
 
 ### 📬 Connect With Me
 
