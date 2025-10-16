@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kulbainur</h1>
-<h3 align="center">BTech IT '28 |  Java | Python | ML | Blogger</h3>
+<h3 align="center">BTech IT '28 |  Web Dev | Java | ML | Blogger</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=500&lines=Tech+Enthusiast+%F0%9F%94%A5;AI+-+ML+-+DS+Explorer+%F0%9F%9A%80;Full+Stack+Web+Learner+%F0%9F%92%BB;Spiritual+Blogger+%E2%9C%A9;Love+to+Build+and+Break+%F0%9F%A4%AA" alt="Typing SVG" />
