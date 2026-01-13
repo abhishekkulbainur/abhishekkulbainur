@@ -45,10 +45,10 @@
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/abhishekkulbainur)
 [![Blog](https://img.shields.io/badge/-Blogspot-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://abhishekkulbainur.blogspot.com/)
 
-📧 **Email**: `abhishekkulbainur@gmail.com` 
+📧 **Email**: `abhishekkulbainur@gmail.com`
 
 ---
 
 ### 💬 Quote to Live By
 
-> _"Stay curious. Code with purpose. Trust in God's plan."_
+> _"Stay curious.Code with purpose.Trust in God's plan."_
