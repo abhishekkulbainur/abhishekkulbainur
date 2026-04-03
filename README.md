@@ -2,7 +2,7 @@
 <h3 align="center">🚀 BTech IT '28 | Web Dev | Java | AI/ML | Blogger</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=600&lines=Tech+Enthusiast+🔥;MERN+Stack+Developer+🚀;React+%7C+Next.js+%7C+MongoDB+💻;AI+-+ML+-+DS+Explorer+🔥;Spiritual+Blogger+✨" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=600&lines=Tech+Enthusiast+%F0%9F%94%A5;MERN+Stack+Developer+%F0%9F%9A%80;React+%7C+Next.js+%7C+MongoDB+%F0%9F%92%BB;AI+ML+DS+Explorer+%F0%9F%94%A5;Spiritual+Blogger+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
 <p align="center">
