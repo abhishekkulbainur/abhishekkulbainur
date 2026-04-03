@@ -16,7 +16,6 @@
 * 🎓 BTech IT student at **FCRIT**, Batch of 2028
 * 🌱 Learning `AI`, `ML`, `System Design`, and `Full Stack Development`
 * 💻 Working with **MERN Stack (MongoDB, Express, React, Node.js)** + Next.js
-* 🧠 Building **AI Chatbots & Smart Systems**
 * 📖 Writing **spiritual blogs** & learning from the Bible
 * ⚡ Passionate about **tech + purpose**
 
@@ -57,18 +56,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishekkulbainur&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekkulbainur&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkulbainur&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
 
 ### 🐍 Contribution Snake
 
