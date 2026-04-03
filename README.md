@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kulbainur</h1>
-<h3 align="center">BTech IT '28 | Web Dev | Java | AI/ML | Blogger</h3>
+<h3 align="center">🚀 BTech IT '28 | Web Dev | Java | AI/ML | Blogger</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=500&lines=Tech+Enthusiast+%F0%9F%94%A5;MERN+Stack+Developer+%F0%9F%9A%80;React+%7C+Next.js+%7C+MongoDB+%F0%9F%92%BB;AI+-+ML+-+DS+Explorer+%F0%9F%94%A5;Spiritual+Blogger+%E2%9C%A9" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=600&lines=Tech+Enthusiast+🔥;MERN+Stack+Developer+🚀;React+%7C+Next.js+%7C+MongoDB+💻;AI+-+ML+-+DS+Explorer+🔥;Spiritual+Blogger+✨" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhishekkulbainur&label=Profile%20Views&color=blueviolet&style=flat" />
 </p>
 
 ---
@@ -12,6 +16,7 @@
 * 🎓 BTech IT student at **FCRIT**, Batch of 2028
 * 🌱 Learning `AI`, `ML`, `System Design`, and `Full Stack Development`
 * 💻 Working with **MERN Stack (MongoDB, Express, React, Node.js)** + Next.js
+* 🧠 Building **AI Chatbots & Smart Systems**
 * 📖 Writing **spiritual blogs** & learning from the Bible
 * ⚡ Passionate about **tech + purpose**
 
@@ -52,6 +57,26 @@
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishekkulbainur&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekkulbainur&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkulbainur&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhishekkulbainur/abhishekkulbainur/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
 
 ### 📬 Connect With Me
 
@@ -64,6 +89,6 @@
 
 ---
 
-### 💬 Quote to Live By
+### 💬 Quote
 
 > *"Stay curious. Code with purpose. Trust in God's plan."*
